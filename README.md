@@ -1,6 +1,6 @@
 # katalog-produk
 
-Katalog produk Unilever untuk outlet (Sorong, Nabire, Kaimana).
+Katalog produk distributor untuk outlet (Sorong, Nabire, Kaimana).
 
 - Halaman: `index.html`, kota dipilih lewat link `?kota=sorong`, `?kota=nabire`, `?kota=kaimana`.
 - Foto produk: `foto/<PCODE>.jpg`.
